@@ -1087,7 +1087,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 600;
 		color: #d69964;
-		text-shadow: 1px 1px 1px rgba(0,0,0,0.98);
+		text-shadow: 1px 1px 1px rgba(0,0,0,0.82);
 	}
 
 	h2, h3 {
@@ -1121,6 +1121,7 @@
 	p, ul, ol {
 		margin: 0 0 1.5em 0;
 		text-shadow: 1px 1px 1px rgba(0,0,0,0.65);
+		color: white;
 	}
 
 	hr {
@@ -1524,7 +1525,7 @@
 								width: 996px;
 								height: 600px;
 								overflow: hidden;
-								background: rgba(255, 255, 255, 0.87);
+								background: rgba(28, 108, 179, 0.71);
 								border-radius: 4px;
 							}
 
