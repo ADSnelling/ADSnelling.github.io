@@ -1100,7 +1100,7 @@
 
 		header.major h2 {
 			margin: 0 0 0.5em 0;
-			background: #fff;
+			background: rgba(255, 255, 255, 0);
 			display: inline-block;
 			padding: 0 0.75em;
 		}
@@ -1113,7 +1113,7 @@
 				left: 0;
 				margin-top: -0.55em;
 				height: 3px;
-				background: #f4f4f4;
+				background: rgba(244, 244, 244, 0);
 				z-index: -1;
 			}
 
@@ -1521,7 +1521,7 @@
 								width: 996px;
 								height: 600px;
 								overflow: hidden;
-								background: #fff;
+								background: rgba(255, 255, 255, 0.87);
 								border-radius: 4px;
 							}
 
