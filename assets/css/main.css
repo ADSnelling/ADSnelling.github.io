@@ -2135,3 +2135,7 @@ ul.icons li a span {
         border-radius: 4px;
     }
 }
+
+.skills{
+	margin: unset !important;
+}
